@@ -1,1 +1,1 @@
-A dumy repo
+A dummy repo
